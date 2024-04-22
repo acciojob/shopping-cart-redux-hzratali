@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 
-const Footer = ()=>{
-    return(
-        <div>
-            <h3>Shopping Cart</h3>
+const Footer = () => {
+    return (
+        <div className="navbar navbar-light bg-light mt-5">
+            <h6 className="mx-auto py-2">Shopping Cart</h6>
         </div>
     )
 }
 
-export default Footer;
+export default Footer
