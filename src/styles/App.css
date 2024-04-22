@@ -1,1 +1,9 @@
+.product-display{
+    display: grid;
+    grid-template-columns:auto auto;
+}
 
+.product-display img{
+    width: 300px;
+    height: max-content;
+}
